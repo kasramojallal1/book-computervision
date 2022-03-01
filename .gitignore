@@ -130,3 +130,4 @@ dmypy.json
 
 # Personal
 .DS_Store
+.vscode
