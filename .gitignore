@@ -131,3 +131,6 @@ dmypy.json
 # Personal
 .DS_Store
 .vscode
+PyTorch/Chapter\ 3/FMNIST_dataset
+PyTorch/Chapter\ 3/image_data
+
