@@ -1,3 +1,3 @@
-# computer_vision
+# Computer_Vision
 
-In this project I implement the concepts that are inroduced in the "Modern computer vison with PyTorch by V Kishore Ayyadevara"
+In this project I implement the concepts that are inroduced in the "Modern Computer Vison with PyTorch by V Kishore Ayyadevara"
